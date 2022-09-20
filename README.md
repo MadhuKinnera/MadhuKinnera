@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://madhukinnera.github.io/](https://madhukinnera.github.io/)
 
-- 💬 Ask me about **Coding and Data Stuctures**
+- 💬 Ask me about **Coding and Data Stuctures and Computer related stuff**
 
 - 📫 How to reach me **kinneramadhu123@gmail.com**
 
