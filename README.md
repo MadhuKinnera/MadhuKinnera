@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Java Related Stuff**
 
-- 👨‍💻 All of my projects are available at [https://madhukinnera.github.io/](https://madhukinnera.github.io/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://madhukinnera.github.io/)
 
 - 💬 Ask me about **Coding and Data Stuctures and Computer related stuff**
 
 - 📫 How to reach me **kinneramadhu123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dKCm4FShZtG6blTbqTujGeqZDVJ0f9RJ/view?usp=sharing](https://drive.google.com/file/d/1dKCm4FShZtG6blTbqTujGeqZDVJ0f9RJ/view?usp=sharing)
+- 📄 Know about my experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1dKCm4FShZtG6blTbqTujGeqZDVJ0f9RJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Different from Different persons.**
 
