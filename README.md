@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhu Kinnera</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhukinnera&label=Profile%20views&color=0e75b6&style=flat" alt="madhukinnera" /> </p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -16,6 +15,9 @@
 - 📄 Know about my experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1dKCm4FShZtG6blTbqTujGeqZDVJ0f9RJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Different from Different persons.**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +34,7 @@
 
 
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukinnera&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="madhukinnera" 
