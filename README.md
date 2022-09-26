@@ -54,7 +54,10 @@
 
 
 
-
+<p align="center">
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=madhukinnera&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
+</p>
+    
 
 
 
