@@ -20,16 +20,6 @@
 - ⚡ Fun fact **I think I am Very Different from Different persons.**
 
 
-
-
-<h3 align="left" >Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/madhu-kinnera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhu-kinnera" height="30" width="40" /></a>
-<a href="https://instagram.com/man_madhu_do.1.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="man_madhu_do.1.1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technicalearner telugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technicalearner telugu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kinneramadhu123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinneramadhu123" height="30" width="40" /></a>
-</p>
-
 <br>
 <br>
 <br> 
@@ -116,6 +106,13 @@
 <p>
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=madhukinnera&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
 </p>
+
+ <h3 align="center">Where to Find me: 📫</h3>
+<div align="center" display="flex">
+  <a  href="https://linkedin.com/in/madhu-kinnera" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="mailto:kinneramadhu123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a  href="https://github.com/madhukinnera" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
     
 
 
