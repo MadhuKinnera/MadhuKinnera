@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madhu Kinnera</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
 
-<br>
-<br>
+
+ <h3> Iam a </h3>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&right=true&width=400&height=50">
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
