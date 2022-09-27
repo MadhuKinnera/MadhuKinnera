@@ -2,7 +2,7 @@
 
 
  <h3> Iam a </h3>
- <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&right=true&width=400&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;&right=true&width=400&height=50">
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
