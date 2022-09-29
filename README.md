@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madhu Kinnera</h1>
-<h1 align="center">A Computer Science Engineer </h1>
+<h1 align="center">Hi 👋, I'm Madhu Kinnera A Computer Science Engineer</h1>
+
 
 
 
