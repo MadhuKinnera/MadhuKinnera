@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhu Kinnera</h1>
 
 
-
-
  <h3> Iam a </h3>
  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;&right=true&width=400&height=50">
 
