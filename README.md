@@ -94,7 +94,7 @@
 <p>
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=madhukinnera&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
 </p> -->
-[![MadhuKinnera github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MadhuKinnera&theme=dracula)](https://github.com/MadhuKinnera/github-readme-activity-graph)
+<!--[![MadhuKinnera github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MadhuKinnera&theme=dracula)](https://github.com/MadhuKinnera/github-readme-activity-graph) --->
 
 <br>
 
