@@ -10,13 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://madhukinnera.github.io/)
 
-- 💬 Ask me about **Coding and Data Stuctures and Computer related stuff**
+- 💬 Ask me about **Coding and Data structure and Computer related stuff**
 
 - 📫 How to reach me **kinneramadhu123@gmail.com**
 
-- 📄 Know about my experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1Tkkms081mqdDMZ9zUcBz7A_PTaJPi-vL/view?usp=sharing)
+- 📄 Know about my experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am Very Different from Different persons.**
+- ⚡ Fun fact **I think I am Very Different from Different people.**
 
 
 <br>
