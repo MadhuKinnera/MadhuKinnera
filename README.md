@@ -16,8 +16,7 @@
 
 - 📄 Know about my experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am Very Different from Different people.**
-
+- ⚡ Fun fact **I think I am Very Different from Different people who taught them not Different**
 
 <br>
 <br>
@@ -25,10 +24,9 @@
 <br> 
 <br>
 
-
+## 🔥Languages & Tools
 <div align="center">
-  <h3 align="center" border="0"> Languages And Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h3>
-<br>
+ <br>
 <table align="center">
 <tbody>
 <tr valign="top">
@@ -76,20 +74,20 @@
 </div> 
 
 
+## 🔥GitHub Stats & Streak
 
+<div align="center">
+ 
+  <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhukinnera&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="uzairansari11" />
+  </a>
 
-<br> 
-<br> 
+</div>
 
-<h3>Statistical Data :</h3>
+<p align="center">
+<a href="https://github.com/madhukinnera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukinnera&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"/>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhukinnera&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="madhukinnera" /></p>
-      
-<p align="center"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
+</p>
 <!-- 
 <p>
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=madhukinnera&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
