@@ -2,11 +2,9 @@
 
 
  <h3> Iam a </h3>
- <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;&right=true&width=400&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;&right=true&width=350&height=45">
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-- 🌱 I’m currently learning **Java Related Stuff**
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://madhukinnera.github.io/)
 
@@ -14,13 +12,15 @@
 
 - 📫 How to reach me **kinneramadhu123@gmail.com**
 
-- 📄 Know about my experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am Very Different from Different people who taught them not Different**
-
+- 📄 Know about my experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=sharing)
+  
 <br>
 <br>
 <br> 
+<br> 
+<br>
+<br> 
+<br>
 <br> 
 <br>
 
