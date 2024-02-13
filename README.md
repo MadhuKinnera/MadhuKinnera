@@ -10,7 +10,7 @@
 
 - 💬 Exploring and Practicing **Coding and Data structure and Computer related topics**
 
-- 📫 Reach through **kinneramadhu123@gmail.com**
+- 📫 Reach Madhu through **kinneramadhu123@gmail.com**
 
 - 📄 Know about skills and experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=sharing)
   
