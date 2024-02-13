@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Madhu Kinnera</h1>
+<h1 align="center">Hi 👋, Madhu Kinnera Welcomes You</h1>
 
 
- <h3> Iam a </h3>
+ <h3> Madhu Kinnera is a  </h3>
  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;&right=true&width=400&height=50">
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400px" /></p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://madhukinnera.github.io/)
+- 👨‍💻 All projects are available at [Portfolio](https://madhukinnera.github.io/)
 
-- 💬 Ask me about **Coding and Data structure and Computer related stuff**
+- 💬 Exploring and Practicing **Coding and Data structure and Computer related topics**
 
-- 📫 How to reach me **kinneramadhu123@gmail.com**
+- 📫 Reach through **kinneramadhu123@gmail.com**
 
-- 📄 Know about my experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=sharing)
+- 📄 Know about skills and experiences [Madhu-Kinnera-Resume](https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=sharing)
   
 <br>
 <br>
@@ -96,7 +96,7 @@
 
 <br>
 
- <h3 align="center">Where To Find Me: 📫</h3>
+ <h3 align="center">Contacts & Socials : 📫</h3>
 <div align="center" display="flex">
   <a  href="https://linkedin.com/in/madhu-kinnera" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a  href="mailto:kinneramadhu123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
