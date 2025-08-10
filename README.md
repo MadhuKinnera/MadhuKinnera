@@ -6,7 +6,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400px" /></p>
 
-- 👨‍💻 All projects are available at [Portfolio](https://madhukinnera.github.io/)
+- 👨‍💻 All projects are available at [Portfolio](https://madhukinnera.netlify.app/)
 
 - 💬 Exploring and Practicing **Coding and Data structure and Computer related topics**
 
