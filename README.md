@@ -18,7 +18,7 @@
 ### 🚀 About Me
 - 🛠 Specializing in **backend engineering** & **scalable system design**
 - 💡 Builder of **full-stack applications** & **AI-powered solutions**
-- 🌱 Learning deeply: **WebSockets**, **.NET**, **real-time systems**
+- 🌱 Learning deeply: **System Design**, **Go**, **real-time systems**
 - 📌 Portfolio: [View Here](https://madhukinnera.netlify.app/)  
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=sharing)
 
